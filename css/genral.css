@@ -84,7 +84,7 @@ body {
   max-width: 120rem;
   padding: 0 3.2rem;
   margin: 0 auto;
-  margin-top: 9.6rem;
+  /* margin-top: 9.6rem; */
 }
 .grid {
   display: grid;
@@ -140,6 +140,7 @@ body {
   color: #cf711f;
   text-transform: uppercase;
   margin-bottom: 1.6rem;
+  /* margin-top: 9.6rem; */
   letter-spacing: 0.75px;
 }
 
